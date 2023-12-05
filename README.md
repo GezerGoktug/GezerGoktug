@@ -1,7 +1,7 @@
 <h1 align=center>Hi there 👋 I'am Göktuğ</h1>
 <h3 align=center>I am studying computer engineering at Gazi University. I am interested in web development and I am improving myself in this field.</h3><br>
 <h4 align=left >Connect with me:</h4>
-<a href="www.linkedin.com/in/göktuğgezer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width=40></a>
+<a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9Fgezer/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width=40></a>
 &nbsp;&nbsp;<a href="mailto:ggezer780@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width=50 height=40></a>
 <h4 align=left >Languages and Tools:</h4>
 <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width=40></a>
