@@ -11,3 +11,4 @@
 &nbsp;&nbsp;<a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/188px-Sass_Logo_Color.svg.png" width=50 height=40></a>
 &nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/96px-Visual_Studio_Code_1.35_icon.svg.png" width=40></a>
 &nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/tr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/97px-Visual_Studio_Icon_2019.svg.png" width=40></a>
+&nbsp;&nbsp;<a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width=50></a>
