@@ -1,27 +1,86 @@
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
+<img  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 
 <h1  align=center>Hi there 👋 I'am Göktuğ</h1>
-<h3 align=center  >I am a developer who loves software and is willing to learn and research. I am improving myself in the fields of web and mobile development. I am currently a student at Gazi University.</h3><br>
+<h3 align=center  >I am a developer who loves software and is willing to learn and research. I am improving myself in the fields of web development and artificial intelligence . I am currently a student at Gazi University.</h3><br>
 
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <h3 align=left >🌐 Connect with me:</h3>
-<a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9Fgezer/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width=40></a>
-&nbsp;&nbsp;<a href="mailto:ggezer780@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width=50 height=40></a>
+<a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9Fgezer/"><img src="https://skillicons.dev/icons?i=linkedin" width=48></a>
+&nbsp;&nbsp;<a href="mailto:ggezer780@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width=48 ></a>
+&nbsp;&nbsp;<a href="https://medium.com/@ggezer780"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width=48 ></a>
 <h3 align=left >🛠️ Languages and Tools:</h4>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width=40></a>
-&nbsp;&nbsp;<a href="https://www.w3.org/Style/CSS/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=40></a>
-&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/338px-Unofficial_JavaScript_logo_2.svg.png" width=40 ></a>
-&nbsp;&nbsp;<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/225px-Bootstrap_logo.svg.png" width=50 height=40></a>
-&nbsp;&nbsp;<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width=40></a>
-&nbsp;&nbsp;<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40></a>
-&nbsp;&nbsp;<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width=50></a>
-&nbsp;&nbsp;<a href="https://reactrouter.com/en/main"><img src="https://www.svgrepo.com/show/354262/react-router.svg" width=50 height=50></a>
-&nbsp;&nbsp;<a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/188px-Sass_Logo_Color.svg.png" width=50 height=40></a>
-&nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/96px-Visual_Studio_Code_1.35_icon.svg.png" width=40></a>
-&nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/tr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/97px-Visual_Studio_Icon_2019.svg.png" width=40></a>
+
+
+<a href="https://www.w3.org/html/"
+      ><img src="https://skillicons.dev/icons?i=html" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://www.w3.org/Style/CSS/"
+      ><img src="https://skillicons.dev/icons?i=css" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.w3schools.com/c/"
+      ><img src="https://skillicons.dev/icons?i=c" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://www.python.org/"
+      ><img src="https://skillicons.dev/icons?i=python" width="48"
+    /></a>
+    &nbsp;&nbsp;<a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      ><img src="https://skillicons.dev/icons?i=javascript" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.typescriptlang.org/"
+      ><img src="https://skillicons.dev/icons?i=typescript" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://getbootstrap.com/"
+      ><img src="https://skillicons.dev/icons?i=bootstrap" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://tailwindcss.com/"
+      ><img src="https://skillicons.dev/icons?i=tailwind" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://sass-lang.com/"
+      ><img src="https://skillicons.dev/icons?i=sass" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://react.dev/"
+      ><img src="https://skillicons.dev/icons?i=react" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://redux.js.org/"
+      ><img src="https://skillicons.dev/icons?i=redux" width="50"
+    /></a>
+        &nbsp;&nbsp;<a href="https://nextjs.org/"
+      ><img src="https://skillicons.dev/icons?i=nextjs" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.prisma.io/"
+      ><img src="https://skillicons.dev/icons?i=prisma" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://www.mongodb.com/"
+      ><img src="https://skillicons.dev/icons?i=mongodb" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.postgresql.org/"
+      ><img src="https://skillicons.dev/icons?i=postgresql" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://firebase.google.com/"
+      ><img src="https://skillicons.dev/icons?i=firebase" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.postman.com/"
+      ><img src="https://skillicons.dev/icons?i=postman" width="48"
+    /></a>
+        &nbsp;&nbsp;<a href="https://www.netlify.com/"
+      ><img src="https://skillicons.dev/icons?i=netlify" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://vercel.com/"
+      ><img src="https://skillicons.dev/icons?i=vercel" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://code.visualstudio.com/"
+      ><img src="https://skillicons.dev/icons?i=vscode" width="48"
+    /></a>
+    &nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/tr/"
+      ><img src="https://skillicons.dev/icons?i=visualstudio" width="48"
+    /></a>
+    
+
+
 
 
 
